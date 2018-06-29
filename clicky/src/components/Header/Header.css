@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+
+.header {
+  font-family: "Nunito", sans-serif;
+}
+.App-header {
+  background-color: rgb(135, 212, 226);
+  height: 120px;
+  color: white;
+}
+
+.header-name {
+  padding: 35px;
+  font-size: 32px;
+  font-weight: 600;
+  letter-spacing: 3px;
+}
+.header-text {
+  padding: 0px;
+  font-size: 18px;
+}
+
+.game-score {
+  background-color: rgb(61, 168, 118);
+  color: white;
+  padding: 35px 0px 10px;
+}
